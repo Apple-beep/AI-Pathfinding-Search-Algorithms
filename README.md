@@ -23,11 +23,11 @@ It implements two popular heuristic search algorithms — **Greedy Best-First Se
 
 ## 📁 Project Structure
 
-.
-├── cs480_P01_A20501777.py # Main program
-├── driving_.csv # Driving distances between cities
-├── straightline.csv # Heuristic distances (straight-line) between cities
-└── README.md # Project documentation
+- `cs480_P01_A20501777.py` — Main program
+- `driving_.csv` — Driving distances between cities
+- `straightline.csv` — Heuristic distances (straight-line) between cities
+- `README.md` — Project documentation
+
 
 ---
 
